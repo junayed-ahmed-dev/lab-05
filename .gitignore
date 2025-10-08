@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+
+# Android build files
+.gradle/
+build/
+*/build/
+local.properties
+*.iml
+.idea/
+*.apk
+*.ap_
+
+# Firebase configuration
+google-services.json
+GoogleService-Info.plist
+
+# Logs and caches
+*.log
+*.tmp
+.cache
